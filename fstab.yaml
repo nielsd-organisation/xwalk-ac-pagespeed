@@ -1,5 +1,5 @@
 mountpoints:
   /:
-    url: "https:/author-p33458-e1016657.adobeaemcloud.com/bin/franklin.delivery/nielsd-organisation/xwalk-ac-pagespeed/main"
+    url: "https:/author-p33458-e1003325.adobeaemcloud.com/bin/franklin.delivery/nielsd-organisation/xwalk-ac-pagespeed/main"
     type: "markup"
     suffix: ".html"
